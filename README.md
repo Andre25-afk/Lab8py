@@ -1,6 +1,6 @@
 # Pratikum 8  - PHP dan Database MySQL
-### NAMA : Raihan Ardiansyah
-### NIM : 312410396
+### NAMA : andreas Ferdinand parapat
+### NIM : 312410383
 ### KELAS : TI.24.A3
 
 ## 📍LANGKAH - LANGKAH PENGERJAAN
